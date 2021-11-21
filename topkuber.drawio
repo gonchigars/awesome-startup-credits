@@ -1,33 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T11:15:08.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VOv_-wGYmRyQTIFhT5Gn" version="15.8.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-21T14:09:14.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8VZ1dsyD1RoQu1Cqpeme" version="15.8.2" type="github" pages="5">
   <diagram id="tV3SZ7Gp3QbB8gFiO6Ur" name="Lab_Page">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ClY32kiAH37RMBiAfvLT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ClY32kiAH37RMBiAfvLT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="520" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="ClY32kiAH37RMBiAfvLT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ClY32kiAH37RMBiAfvLT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="80" width="120" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="ClY32kiAH37RMBiAfvLT-3" value="XTERMJS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ClY32kiAH37RMBiAfvLT-3" value="XTERMJS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="80" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="b5WgeJC2u2UdgQDCwXmb-1" value="Notepad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VoeLy7Sjiztngww4CHR0" name="Scenario_1">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="VoeLy7Sjiztngww4CHR0" name="Show">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YvD9xSrVqF6ssrjyZB-Q-0" />
         <mxCell id="YvD9xSrVqF6ssrjyZB-Q-1" parent="YvD9xSrVqF6ssrjyZB-Q-0" />
-        <mxCell id="rBHp9l9BRhuhBSNh6TJS-0" value="Any show/get command typed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YvD9xSrVqF6ssrjyZB-Q-1">
+        <mxCell id="rBHp9l9BRhuhBSNh6TJS-0" value="Any show/get command typed" style="rounded=1;whiteSpace=wrap;html=1;" parent="YvD9xSrVqF6ssrjyZB-Q-1" vertex="1">
           <mxGeometry x="60" y="90" width="320" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="rBHp9l9BRhuhBSNh6TJS-2" value="DB&lt;br&gt;Command1 -- Output&lt;br&gt;command2 -- Output&lt;br&gt;command3 -- Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YvD9xSrVqF6ssrjyZB-Q-1">
+        <mxCell id="rBHp9l9BRhuhBSNh6TJS-2" value="DB&lt;br&gt;Command1 -- Output&lt;br&gt;command2 -- Output&lt;br&gt;command3 -- Output" style="rounded=1;whiteSpace=wrap;html=1;" parent="YvD9xSrVqF6ssrjyZB-Q-1" vertex="1">
           <mxGeometry x="480" y="90" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="rBHp9l9BRhuhBSNh6TJS-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="YvD9xSrVqF6ssrjyZB-Q-1">
+        <mxCell id="rBHp9l9BRhuhBSNh6TJS-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="YvD9xSrVqF6ssrjyZB-Q-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="214.5" as="sourcePoint" />
             <mxPoint x="460" y="214.5" as="targetPoint" />
@@ -36,60 +39,77 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Scenario_2" id="3xJcSjHTh5fz-E9STMx8">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Create_2" id="3xJcSjHTh5fz-E9STMx8">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MtH0x0KcjSVb-GzT-Ek8-0" />
         <mxCell id="MtH0x0KcjSVb-GzT-Ek8-1" parent="MtH0x0KcjSVb-GzT-Ek8-0" />
-        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-2" value="vi pod.yaml --&amp;gt; should open vi editor(simulator)&lt;br&gt;User --&amp;gt; paste the json data&lt;br&gt;save it&lt;br&gt;kubectl create -f pod.yaml&lt;br&gt;&lt;br&gt;&lt;br&gt;point out difference/mistakes from pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="MtH0x0KcjSVb-GzT-Ek8-1">
+        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-2" value="vi pod.yaml --&amp;gt; should open vi editor(simulator)&lt;br&gt;User --&amp;gt; paste the json data&lt;br&gt;save it&lt;br&gt;kubectl create -f pod.yaml&lt;br&gt;&lt;br&gt;&lt;br&gt;point out difference/mistakes from pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="MtH0x0KcjSVb-GzT-Ek8-1" vertex="1">
           <mxGeometry x="60" y="90" width="320" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-3" value="Compare with pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MtH0x0KcjSVb-GzT-Ek8-1">
+        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-3" value="Compare with pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;" parent="MtH0x0KcjSVb-GzT-Ek8-1" vertex="1">
           <mxGeometry x="480" y="90" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="MtH0x0KcjSVb-GzT-Ek8-1">
+        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="MtH0x0KcjSVb-GzT-Ek8-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="214.5" as="sourcePoint" />
             <mxPoint x="460" y="214.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FFFF33;" vertex="1" parent="MtH0x0KcjSVb-GzT-Ek8-1">
+        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FFFF33;" parent="MtH0x0KcjSVb-GzT-Ek8-1" vertex="1">
           <mxGeometry x="170" y="110" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FF3333;" vertex="1" parent="MtH0x0KcjSVb-GzT-Ek8-1">
+        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FF3333;" parent="MtH0x0KcjSVb-GzT-Ek8-1" vertex="1">
           <mxGeometry x="550" y="200" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#7F00FF;" vertex="1" parent="MtH0x0KcjSVb-GzT-Ek8-1">
+        <mxCell id="MtH0x0KcjSVb-GzT-Ek8-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#7F00FF;" parent="MtH0x0KcjSVb-GzT-Ek8-1" vertex="1">
           <mxGeometry x="110" y="280" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Scenario_3" id="zkpz5SHC6yx0E1onfBnT">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Edit_3" id="zkpz5SHC6yx0E1onfBnT">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HL1AbjsaaatnT2-a2oOk-0" />
         <mxCell id="HL1AbjsaaatnT2-a2oOk-1" parent="HL1AbjsaaatnT2-a2oOk-0" />
-        <mxCell id="HL1AbjsaaatnT2-a2oOk-2" value="kubectl edit pod.yaml --&amp;gt; save it.&lt;br&gt;&lt;br&gt;&lt;br&gt;point out difference/mistakes from pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+        <mxCell id="HL1AbjsaaatnT2-a2oOk-2" value="kubectl edit pod.yaml --&amp;gt; save it.&lt;br&gt;&lt;br&gt;&lt;br&gt;point out difference/mistakes from pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="HL1AbjsaaatnT2-a2oOk-1" vertex="1">
           <mxGeometry x="60" y="90" width="320" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="HL1AbjsaaatnT2-a2oOk-3" value="Compare with pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+        <mxCell id="HL1AbjsaaatnT2-a2oOk-3" value="Compare with pod.yaml in DB" style="rounded=1;whiteSpace=wrap;html=1;" parent="HL1AbjsaaatnT2-a2oOk-1" vertex="1">
           <mxGeometry x="480" y="90" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="HL1AbjsaaatnT2-a2oOk-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+        <mxCell id="HL1AbjsaaatnT2-a2oOk-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="HL1AbjsaaatnT2-a2oOk-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="214.5" as="sourcePoint" />
             <mxPoint x="460" y="214.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HL1AbjsaaatnT2-a2oOk-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FFFF33;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+        <mxCell id="HL1AbjsaaatnT2-a2oOk-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FFFF33;" parent="HL1AbjsaaatnT2-a2oOk-1" vertex="1">
           <mxGeometry x="170" y="110" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HL1AbjsaaatnT2-a2oOk-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FF3333;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+        <mxCell id="HL1AbjsaaatnT2-a2oOk-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FF3333;" parent="HL1AbjsaaatnT2-a2oOk-1" vertex="1">
           <mxGeometry x="550" y="200" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HL1AbjsaaatnT2-a2oOk-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#7F00FF;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+        <mxCell id="HL1AbjsaaatnT2-a2oOk-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#7F00FF;" parent="HL1AbjsaaatnT2-a2oOk-1" vertex="1">
           <mxGeometry x="110" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7i6dQ7sr9TVjNyyi__Hy-0" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;align=left;fillColor=#FF3333;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+          <mxGeometry x="550" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7i6dQ7sr9TVjNyyi__Hy-1" value="get data from pre edit and show" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HL1AbjsaaatnT2-a2oOk-1">
+          <mxGeometry x="580" y="155" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HH_gMhaYurnf4C9g_J1u" name="Boundaries">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="4nFA9bZIkv9-C85O2Gdh-0" />
+        <mxCell id="4nFA9bZIkv9-C85O2Gdh-1" parent="4nFA9bZIkv9-C85O2Gdh-0" />
+        <mxCell id="4nFA9bZIkv9-C85O2Gdh-2" value="Each question will have set of&amp;nbsp; sequence commands.&lt;br&gt;if commands are typed (wrongly)... through message saying.. time wasting command.. check again.&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4nFA9bZIkv9-C85O2Gdh-1">
+          <mxGeometry x="170" y="70" width="410" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
