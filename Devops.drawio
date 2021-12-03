@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T02:23:41.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vYP5qY9IytzBkU53fjhH" version="15.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-03T02:32:01.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="T3fuNGDrTd0N5lePElW-" version="15.8.8" type="github" pages="3">
   <diagram id="aAJsCEYj-XfXMxEE4FyB" name="Overview">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,23 @@
         </mxCell>
         <mxCell id="215Z1S1inMU1brCJqcPS-14" value="Self serve Pipelines" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yfAdzYAspmstA1rM2une-1">
           <mxGeometry x="655" y="565" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XzD10cqBDgRZpufVYRJ0" name="5. Cloud Native Arch">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fZuJMfBiT-5ghEMpBZgV-0" />
+        <mxCell id="fZuJMfBiT-5ghEMpBZgV-1" parent="fZuJMfBiT-5ghEMpBZgV-0" />
+        <mxCell id="fZuJMfBiT-5ghEMpBZgV-2" value="&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;&amp;nbsp;D&lt;/span&gt;esign methodology that utilizes cloud services&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;such as EC2, S3, Lambda from AWS,&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="fZuJMfBiT-5ghEMpBZgV-1">
+          <mxGeometry x="170" y="30" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fZuJMfBiT-5ghEMpBZgV-3" value="https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fZuJMfBiT-5ghEMpBZgV-1">
+          <mxGeometry x="160" y="100" width="740" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZuJMfBiT-5ghEMpBZgV-5" value="&lt;div&gt;Principle 1: Design for automation&lt;/div&gt;&lt;div&gt;Principle 2: Be smart with state&lt;/div&gt;&lt;div&gt;Principle 3: Favor managed services&lt;/div&gt;&lt;div&gt;Principle 4: Practice defense in depth&lt;/div&gt;&lt;div&gt;Principle 5: Always be architecting&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fZuJMfBiT-5ghEMpBZgV-1">
+          <mxGeometry x="164" y="130" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
