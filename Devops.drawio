@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T02:46:04.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nI_PiEHwkKblMkRZjv45" version="15.8.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-03T02:49:52.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uYpHW0ea4fPbrqGJMVUJ" version="15.8.8" type="github" pages="8">
   <diagram id="aAJsCEYj-XfXMxEE4FyB" name="Overview">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,6 +213,28 @@
         </mxCell>
         <mxCell id="OZWTwHjLbKdoF3ZLP-mc-4" value="&lt;b style=&quot;box-sizing: inherit; font-weight: bolder; color: rgb(54, 60, 68); font-family: splunk_data_sans, helvetica, arial, sans-serif; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;Seamless integration with other security systems&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OZWTwHjLbKdoF3ZLP-mc-1">
           <mxGeometry x="74" y="200" width="450" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mKPDvHO0f5A6jZFC3uSu" name="9. Continuous compliance automation">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="InZBeJGUplL0w23en9Lo-0" />
+        <mxCell id="InZBeJGUplL0w23en9Lo-1" parent="InZBeJGUplL0w23en9Lo-0" />
+        <mxCell id="InZBeJGUplL0w23en9Lo-2" value="CIS benchmarking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="InZBeJGUplL0w23en9Lo-1">
+          <mxGeometry x="140" y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KmY9pNtc6fMLQCUFzfhl" name="10. Value stream engineering">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="RRkXE-N0SbM3n0t4cq55-0" />
+        <mxCell id="RRkXE-N0SbM3n0t4cq55-1" parent="RRkXE-N0SbM3n0t4cq55-0" />
+        <mxCell id="RRkXE-N0SbM3n0t4cq55-2" value="Google map view on how process are working/Bottle necks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="RRkXE-N0SbM3n0t4cq55-1">
+          <mxGeometry x="190" y="60" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
