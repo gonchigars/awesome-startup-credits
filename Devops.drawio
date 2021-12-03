@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T02:32:01.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="T3fuNGDrTd0N5lePElW-" version="15.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-03T02:46:04.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nI_PiEHwkKblMkRZjv45" version="15.8.8" type="github" pages="6">
   <diagram id="aAJsCEYj-XfXMxEE4FyB" name="Overview">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +150,69 @@
         </mxCell>
         <mxCell id="fZuJMfBiT-5ghEMpBZgV-5" value="&lt;div&gt;Principle 1: Design for automation&lt;/div&gt;&lt;div&gt;Principle 2: Be smart with state&lt;/div&gt;&lt;div&gt;Principle 3: Favor managed services&lt;/div&gt;&lt;div&gt;Principle 4: Practice defense in depth&lt;/div&gt;&lt;div&gt;Principle 5: Always be architecting&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fZuJMfBiT-5ghEMpBZgV-1">
           <mxGeometry x="164" y="130" width="250" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vHLv0AFeSck8E3oYMfFP" name="6. Continuous Infra Automation">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="YY5yVMB_4Egu9hVL0d9L-0" />
+        <mxCell id="YY5yVMB_4Egu9hVL0d9L-1" parent="YY5yVMB_4Egu9hVL0d9L-0" />
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-2" value="Deploy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="610" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-3" value="Monitoring Alert" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="480" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-4" value="Optimize" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="290" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-5" value="IAAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="140" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-6" value="Costing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="620" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-7" value="Test Infra as code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="480" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-8" value="Access rights/Sharing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="290" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3e-g_3lKjPKAuE3tW4Lp-9" value="Generate infra as code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="150" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D4pJ8pNPuUgskNwQ8nst-0" value="Implement Agile coding practices in Infra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="YY5yVMB_4Egu9hVL0d9L-1">
+          <mxGeometry x="60" y="20" width="430" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="r80E41eSpDickavSKKn5" name="7. Reliability and resilience">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="flJtcCS4EtRoTuD62Tjq-0" />
+        <mxCell id="flJtcCS4EtRoTuD62Tjq-1" parent="flJtcCS4EtRoTuD62Tjq-0" />
+        <mxCell id="flJtcCS4EtRoTuD62Tjq-2" value="7. Reliability and resilience" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="flJtcCS4EtRoTuD62Tjq-1">
+          <mxGeometry x="310" y="130" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WWYCK-WJcOKpdIXAat-W" name="8. Security automation">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OZWTwHjLbKdoF3ZLP-mc-0" />
+        <mxCell id="OZWTwHjLbKdoF3ZLP-mc-1" parent="OZWTwHjLbKdoF3ZLP-mc-0" />
+        <mxCell id="OZWTwHjLbKdoF3ZLP-mc-2" value="&lt;b style=&quot;box-sizing: inherit; font-weight: bolder; color: rgb(54, 60, 68); font-family: splunk_data_sans, helvetica, arial, sans-serif; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;Playbook creation and customization&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OZWTwHjLbKdoF3ZLP-mc-1">
+          <mxGeometry x="74" y="110" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OZWTwHjLbKdoF3ZLP-mc-3" value="&lt;span style=&quot;box-sizing: inherit ; font-weight: bolder ; color: rgb(54 , 60 , 68) ; font-family: &amp;#34;splunk_data_sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 18px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Standardized incident response processes&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="OZWTwHjLbKdoF3ZLP-mc-1">
+          <mxGeometry x="70" y="160" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OZWTwHjLbKdoF3ZLP-mc-4" value="&lt;b style=&quot;box-sizing: inherit; font-weight: bolder; color: rgb(54, 60, 68); font-family: splunk_data_sans, helvetica, arial, sans-serif; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;Seamless integration with other security systems&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OZWTwHjLbKdoF3ZLP-mc-1">
+          <mxGeometry x="74" y="200" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
