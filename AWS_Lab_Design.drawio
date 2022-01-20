@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T13:03:48.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Bfsj-I_PXGXKg3W-tLkB" version="16.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-20T04:09:19.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="73iVpJ_WqOd4Oal2pUhD" version="16.2.7" type="github" pages="5">
   <diagram id="pecRrNIPVPNtzW-MIR8i" name="LandingZone">
     <mxGraphModel dx="1022" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="283XIJZWoO-UWwsQ1jYN" name="Page-3">
+  <diagram id="283XIJZWoO-UWwsQ1jYN" name="Customization">
     <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Dic6EiRgo8tvUHPkKTiF-0" />
@@ -37,6 +37,247 @@
             <mxGeometry x="120" y="585" width="550" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vx8ez5F6LxDK57Ye5EyF" name="Pricing">
+    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-0" />
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-1" parent="CHnGqf2DVg1lYHm9PCw5-0" />
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-2" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-1">
+          <mxGeometry x="30" y="40" width="730" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-8" value="Service" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-7">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-9" value="Cost (free/free Tier)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-7">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-10" value="Additional" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-7">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="40" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-12" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;AWS Control Tower&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-11">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-11">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-11">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="80" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-16" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;AWS Organizations&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-15">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-15">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-15">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-19" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="120" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-20" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;AWS Single Sign-On (SSO)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-19">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-19">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-19">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-43" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="160" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-44" value="&lt;a href=&quot;https://aws.amazon.com/vpc/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;Amazon Virtual Private Cloud&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-43">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-45" value="Free" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-43">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-46" value="NAT gateway&amp;nbsp; charges" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-43">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-47" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="200" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-48" value="&lt;a href=&quot;https://aws.amazon.com/s3/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;Amazon Simple Storage Service&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-47">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-47">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-50" value="&lt;div&gt;&lt;font color=&quot;#333333&quot; face=&quot;amazonember, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;1st million free. .50 $ for next million.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-47">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="240" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-24" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://aws.amazon.com/servicecatalog/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;AWS Service Catalog&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-23">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-25" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;1,000 API calls per account&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-23">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-26" value="&lt;span style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;$0.0007&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(247 , 247 , 247)&quot;&gt;&amp;nbsp;(14 calls for 1 cent)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-23">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="280" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-28" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://aws.amazon.com/cloudtrail/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;AWS CloudTrail&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-27">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-27">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-30" value="&lt;span style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;$0.10&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(247 , 247 , 247)&quot;&gt;&amp;nbsp;per 100,000 data events delivered&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;$0.35&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;nbsp;per 100,000 events analyzed&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(247 , 247 , 247)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-27">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-31" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="320" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-32" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://aws.amazon.com/config/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;AWS Config&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-31">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-31">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-34" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;First 100,000 rule evaluations&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;$0.001&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&amp;nbsp;per rule evaluation per region&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-31">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="360" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-56" value="&lt;a href=&quot;https://aws.amazon.com/cloudwatch/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;CloudWatch&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-55">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-55">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-58" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;Most AWS Services (EC2, S3, Kinesis, etc.) send metrics automatically for free to CloudWatch.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-55">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-51" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-2">
+          <mxGeometry y="400" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-52" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://aws.amazon.com/sns/pricing/&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 126 , 185) ; outline: 0px ; background-color: transparent ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;Amazon Simple Notification Service&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-51">
+          <mxGeometry width="157" height="40" as="geometry">
+            <mxRectangle width="157" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-51">
+          <mxGeometry x="157" width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHnGqf2DVg1lYHm9PCw5-54" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;number of deliveries to various endpoints.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="CHnGqf2DVg1lYHm9PCw5-51">
+          <mxGeometry x="313" width="417" height="40" as="geometry">
+            <mxRectangle width="417" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Accolite Architecture" id="s6i5GGuvhnTydByy_u4y">
+    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="vC0BtQu5xCycssLnFEFB-0" />
+        <mxCell id="vC0BtQu5xCycssLnFEFB-1" parent="vC0BtQu5xCycssLnFEFB-0" />
+        <mxCell id="-x7c1Pla0FcdfgavREdu-0" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="110" y="30" width="570" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dIj1du3ptedL9uAnKv-0" value="Accolite Organization" style="text;html=1;strokeColor=none;fillColor=#FFFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="120" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWe7U4-khGOn-RMpFUBj-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="120" y="177" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NWe7U4-khGOn-RMpFUBj-1" value="Foundational OU" style="text;html=1;strokeColor=none;fillColor=#97D077;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="120" y="187" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ks0kZtpS6KAb0GDW3E-D-0" value="Logging Account&lt;br&gt;Audit Account" style="text;html=1;strokeColor=none;fillColor=#97D077;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="120" y="217" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ANqeoStI6JztitSZvR9L-0" value="Root" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="350" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1pFF3shbGfU9pxceF9fL-0" value="Training" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="350" y="187" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1pFF3shbGfU9pxceF9fL-1" value="Cloud Practice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="530" y="187" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
