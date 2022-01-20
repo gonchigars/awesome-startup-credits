@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T04:17:42.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dNg-Dq0huwyGctVjKyJ6" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-20T04:38:42.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0MFElzeYmKFWFHdrVF5_" version="16.2.7" type="github" pages="5">
   <diagram id="pecRrNIPVPNtzW-MIR8i" name="LandingZone">
     <mxGraphModel dx="1022" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
         <mxCell id="vC0BtQu5xCycssLnFEFB-0" />
         <mxCell id="vC0BtQu5xCycssLnFEFB-1" parent="vC0BtQu5xCycssLnFEFB-0" />
         <mxCell id="-x7c1Pla0FcdfgavREdu-0" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
-          <mxGeometry x="40" y="30" width="830" height="350" as="geometry" />
+          <mxGeometry x="40" y="10" width="830" height="370" as="geometry" />
         </mxCell>
         <mxCell id="z-dIj1du3ptedL9uAnKv-0" value="Accolite Organization" style="text;html=1;strokeColor=none;fillColor=#FFFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
           <mxGeometry x="120" y="40" width="130" height="30" as="geometry" />
@@ -334,6 +334,15 @@
         </mxCell>
         <mxCell id="JID6h_eS5bZM_ziBQ69M-19" value="SCP&amp;nbsp;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fightclub/Fight%20Club/Rules%20of%20Fight%20Club.png;fillColor=#FF9933;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
           <mxGeometry x="505" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Frn4tyoyivEO4_pGcYm-0" value="IAM Access Analyzer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.access_analyzer;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="595" y="43" width="47.61" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="_Frn4tyoyivEO4_pGcYm-1" value="Amazon GuardDuty" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.guardduty;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="690" y="16.5" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_Frn4tyoyivEO4_pGcYm-2" value="Security Hub" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.security_hub;" vertex="1" parent="vC0BtQu5xCycssLnFEFB-1">
+          <mxGeometry x="780" y="28" width="54" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
